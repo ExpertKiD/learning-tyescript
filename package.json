@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "eslint": "^7.22.0"
+  },
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "main": "src/app.ts",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExpertKiD/learning-typescript.git"
+  },
+  "keywords": [
+    "learning",
+    "typescript",
+    "learning typescript",
+    "codeisfun"
+  ],
+  "author": "Suman Adhikari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ExpertKiD/learning-typescript/issues"
+  },
+  "homepage": "https://github.com/ExpertKiD/learning-typescript#readme",
+  "description": "Learning typescript as a beginner"
+}
